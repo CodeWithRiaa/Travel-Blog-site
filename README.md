@@ -1,2 +1,2 @@
-# blog-site
+# Scrimba Travel Journal
 made with react
