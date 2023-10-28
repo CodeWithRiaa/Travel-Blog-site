@@ -1,4 +1,5 @@
 # Scrimba Travel Journal
-made with react
+
+taking the free react course by scrimba and I made this as a solo project. 
 
 Deployed on netlify, check it [here.](https://neon-capybara-635579.netlify.app/)
